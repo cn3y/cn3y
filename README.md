@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cn3y
+- 👋 Hi, I’m Chris
 - 👀 I’m interested in IT security
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning how to survive a pandemic
 
 <!---
 cn3y/cn3y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
